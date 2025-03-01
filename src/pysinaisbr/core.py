@@ -1,7 +1,7 @@
 """
 PySinaisBR - Biblioteca brasileira para processamento de sinais e sistemas
 Autor: Matheus Sousa
-Versão: 2.0 (Otimizada)
+Versão: 2.0.1 (Otimizada)
 """
 
 import numpy as np
